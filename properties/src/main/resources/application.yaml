@@ -1,0 +1,8 @@
+file:
+  resources:
+    path: "src/main/resources/"
+    build-path: "/resources/main/"
+
+jwt:
+  secret-key: secret-key
+  expiration-minutes: 15
